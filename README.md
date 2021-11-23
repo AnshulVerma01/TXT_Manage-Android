@@ -18,3 +18,7 @@
 * Import the project.
 
 ## Screenshots
+### Main
+<img src="" width="50%">
+### Search
+<img src="" width="50%">
