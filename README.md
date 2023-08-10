@@ -19,10 +19,10 @@
 
 ## Screenshots
 ### Main
-<img src="https://github.com/aka-nikko/TXT_Manage-Android/blob/main/screenshots/main.jpg" width="30%">
+<img src="https://github.com/AnshulVerma01/TXT_Manage-Android/blob/main/screenshots/main.jpg" width="30%">
 
 ### Open File
-<img src="https://github.com/aka-nikko/TXT_Manage-Android/blob/main/screenshots/file.jpg" width="30%">
+<img src="https://github.com/AnshulVerma01/TXT_Manage-Android/blob/main/screenshots/file.jpg" width="30%">
 
 ### Search
-<img src="https://github.com/aka-nikko/TXT_Manage-Android/blob/main/screenshots/search.jpg" width="30%">
+<img src="https://github.com/AnshulVerma01/TXT_Manage-Android/blob/main/screenshots/search.jpg" width="30%">
